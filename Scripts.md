@@ -68,6 +68,10 @@ add_host_entry() {
 }
 ```
 
+Si quisieramos probarlo:
+
+`sudo ./script.sh add_host_entry example.com 127.0.0.1`
+
 ## Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
 ```bash
@@ -110,3 +114,8 @@ else
     exit 1
 fi
 ```
+
+Si quisieramos probarlo:
+
+`sudo ./script.sh create_web_page "Mi Título" "Mi Cabecera" "Este es mi mensaje"`
+
