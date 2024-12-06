@@ -68,7 +68,7 @@ add_host_entry() {
 }
 ```
 
-Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
+## Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
 ```bash
 create_web_page() {
