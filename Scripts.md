@@ -6,7 +6,7 @@
 
 `nano script1.php`.
 
- ![Paso 1](images/paso1.PNG)
+ ![Paso 1](paso1.PNG)
 
 2. Copiamos el contenido del script
 
@@ -30,7 +30,7 @@ add_apache_port() {
 }
 ```
 
- ![Paso 2](images/paso2.PNG)
+ ![Paso 2](paso2.PNG)
 
  Guardamos y Salimos
 
